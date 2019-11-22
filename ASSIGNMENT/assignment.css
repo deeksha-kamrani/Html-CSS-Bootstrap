@@ -1,0 +1,95 @@
+img{
+    height: 200px;
+    width : 350px;
+}
+h1{
+    word-spacing: 10px;
+    letter-spacing: 3px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    color: grey;
+    letter-spacing : 1px;
+}
+h5{
+    color: grey;
+    letter-spacing : 3px;
+}
+#bor{
+    border-bottom : 5px solid rgba(128, 128, 128, 0.418);
+    border-right : 5px solid rgba(128, 128, 128, 0.418);
+}
+#form{
+    background-color : black;
+}
+#Name{
+    background-color: rgb(30, 30, 30);
+    border-color:  rgb(30, 30, 30);
+    padding-top :30px;
+    padding-bottom: 30px;
+    border-radius: 9px;
+}
+#msg{
+    background-color: rgb(30, 30, 30);
+    border-color:  rgb(30, 30, 30);
+    padding-top :100px; 
+    padding-bottom: 100px;
+    border-radius: 9px;
+}
+
+
+.card-title{
+    font-size: 70px;
+    color : rgba(216, 112, 147, 0.63);
+}
+.card-subtitle{
+    font-size : 30px;
+    color : black;
+}
+.card-text{
+    font-size : 22px;
+}
+
+#head{
+    margin-top : 50px;
+    margin-left : 50px;
+    font-size : 50px;
+}
+
+#middle1{
+    text-align: center;
+}
+
+#middle2{
+    text-align: center;
+}
+
+#footer{
+    margin-top : 50px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+#Hi{
+    font-size : 60px;
+}
+#And{
+    font-size : 30px;
+    font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#b1{
+    padding : 20px 50px;
+    font-size : 30px;
+    border-radius :15px;
+    border-color : black;
+}
+
+hr.h{
+    
+    border-top : 5px solid rgba(128, 128, 128, 0.418);
+    
+}
+  
